@@ -1,0 +1,47 @@
+Taxonomists generally disagree about the most appropriate placement of the subfamily Cricetinae within the superfamily Muroidea. Some place it in a family Cricetidae that also includes voles, lemmings, and New World rats and mice; others group all these into a large family called Muridae. Their evolutionary history is recorded by 15 extinct fossil genera and extends back 11.2 million to 16.4 million years to the Middle Miocene Epoch in Europe and North Africa; in Asia it extends 6 million to 11 million years. Four of the seven living genera include extinct species. One extinct hamster of Cricetus, for example, lived in North Africa during the Middle Miocene, but the only extant member of that genus is the European or common hamster of Eurasia.
+
+Subfamily Cricetinae
+Genus Allocricetulus
+Species A. curtatus—Mongolian hamster
+Species A. eversmanni—Eversmann's or Kazakh hamster
+Genus Cansumys
+Species C. canus—Gansu hamster
+Genus Cricetulus
+Species C. barabensis, including "C. pseudogriseus" and "C. obscurus"—Chinese striped hamster, also called Chinese hamster; striped dwarf hamster
+Species C. griseus—Chinese (dwarf) hamster, also called rat hamster, sometimes considered a synonym of C. barabensis
+Species C. longicaudatus—long-tailed dwarf hamster
+Species C. sokolovi—Sokolov's dwarf hamster
+Genus Cricetus
+Species C. cricetus—European hamster, also called common hamster or black-bellied field hamster
+Genus Mesocricetus—golden hamsters
+Species M. auratus—golden or Syrian hamster
+Species M. brandti—Turkish hamster, also called Brandt's hamster; Azerbaijani hamster
+Species M. newtoni—Romanian hamster
+Species M. raddei—Ciscaucasian hamster
+Genus Nothocricetulus - grey dwarf hamster
+Species N. migratorius—grey dwarf hamster, Armenian hamster, migratory grey hamster; grey hamster; migratory hamster
+Genus Phodopus—dwarf hamsters
+Species P. campbelli—Campbell's dwarf hamster
+Species P. roborovskii—Roborovski hamster
+Species P. sungorus—Djungarian hamster or winter-white Russian dwarf hamster
+Genus Tscherskia
+Species T. triton—greater long-tailed hamster, also called Korean hamster
+Genus Urocricetus
+Species U. alticola - Ladakh dwarf hamster
+Species U. kamensis - Kam dwarf hamster
+Relationships among hamster species
+
+Hamster clades
+Neumann et al. (2006) conducted a molecular phylogenetic analysis of 12 of the above 17 species using DNA sequence from three genes: 12S rRNA, cytochrome b, and von Willebrand factor. They uncovered the following relationships:[5]
+
+Phodopus group
+The genus Phodopus was found to represent the earliest split among hamsters. Their analysis included both species. The results of another study[6] suggest Urocricetus kamensis and the related U. alticola belong to either this Phodopus group or hold a similar basal position.[7]
+
+Mesocricetus group
+The genus Mesocricetus also forms a clade. Their analysis included all four species, with M. auratus and M. raddei forming one subclade and M. brandti and M. newtoni another.
+
+Remaining genera
+The remaining genera of hamsters formed a third major clade. Two of the three sampled species within Cricetulus represent the earliest split. This clade contains C. barabensis (and presumably the related C. sokolovi) and C. longicaudatus.
+
+Miscellaneous
+The remaining clade contains members of Allocricetulus, Tscherskia, Cricetus, and C. migratorius. Allocricetulus and Cricetus were sister taxa. Cricetulus migratorius was their next closest relative, and Tscherskia was basal.
